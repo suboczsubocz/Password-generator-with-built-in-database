@@ -29,3 +29,9 @@ To run the application, you need the following Python modules:
 Install any missing dependencies using `pip`:
 bash 
 `for arch linux tkinter is saved as tk`
+
+---
+
+# Usage
+`git clone https://github.com/suboczsubocz/Password-generator-with-built-in-database`
+`python password.py`
