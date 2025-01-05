@@ -33,5 +33,5 @@ bash
 ---
 
 # Usage
-`git clone https://github.com/suboczsubocz/Password-generator-with-built-in-database`
-`python password.py`
+- `git clone https://github.com/suboczsubocz/Password-generator-with-built-in-database`
+- `python password.py`
